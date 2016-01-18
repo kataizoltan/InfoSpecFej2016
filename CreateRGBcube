@@ -1,3 +1,4 @@
-int CreateRGBcube(const char *filename, rgbcube[256][256][256]){
+int CreateRGBcube(const char *filename, int *rgbcube){
+// rgbcube stores the [256][256][256] cube as 1d array [256x256x256]
 // returns the number of different colors
 }
