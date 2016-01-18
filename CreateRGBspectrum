@@ -1,2 +1,3 @@
 int CreateRGBspectrum(const char *filename, int [256][3]){
+// returns the number of different colors
 }
