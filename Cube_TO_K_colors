@@ -1,0 +1,8 @@
+typedef struct{
+  int r,g,b,nr;
+}RGB;
+typedef struct{
+  RGB *colors;
+}IMAGE;
+void Cube_TO_K_colors(){
+}
